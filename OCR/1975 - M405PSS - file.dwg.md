@@ -1,5 +1,5 @@
 # 1975 - M405PSS - file.dwg
-Wiki page: [M405PSS](../../../PAGES/M405PSS.md)
+Wiki page: [M405PSS](../../../../PAGES/M405PSS.md)
 
 
 - **Year:** 1975 (module estimate (family))
@@ -115,7 +115,7 @@ lzr
 
 ```json
 {
- "file": "Modules/METER/M405PSS/1975 - M405PSS - file.dwg",
+ "file": "Modules/METER/M405PSS/MECHANICAL/1975 - M405PSS - file.dwg",
  "sha256": "a23c709952a47c43aa4bc63178f44bcf94fc8d15a3dad44a3dd874f16c0693eb",
  "kind": "module",
  "models": [
