@@ -1,5 +1,5 @@
 # 1975 - M405PSS - file.dwg
-Wiki page: [M405PSS](../../../../PAGES/M405PSS.md)
+Wiki page: [M405PSS](../)
 
 
 - **Year:** 1975 (module estimate (family))
